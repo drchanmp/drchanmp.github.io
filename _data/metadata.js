@@ -6,6 +6,6 @@ module.exports = {
 	author: {
 		name: "Drchanmp",
 		email: "drcklinn@protonmail.com",
-		url: "https://drchanmp.github.io/about"
+		url: "https://drchanmp.github.io/about-me"
 	}
 }
