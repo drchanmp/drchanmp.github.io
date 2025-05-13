@@ -6,4 +6,8 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+*   I am an Admin/CEO of [Mcmpacme, Inc.](https://sirchanmp.github.io/) .
+    
+*   My admin page is [@drchanmp](https://drchanmp.github.io/)
+    
+*   My personal blog is on [@sirchanmp](https://sirchanmp.vivaldi.net/)
