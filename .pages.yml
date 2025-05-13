@@ -16,7 +16,7 @@ content:
   - name: about
     label: About page
     type: file
-    path: content/about/index.html
+    path: content/about/index.md
     fields:
       - { name: layout, type: string, hidden: true, default: layouts/base.njk }
       - name: eleventyNavigation
